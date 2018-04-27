@@ -6,7 +6,7 @@ Paper: Yang, Yazhou, and Marco Loog. "A variance maximization criterion for acti
 Bibtex:
 
 @article{yang2018variance,
-  title={A variance maximization criterion for active learning},
+  title={A variance maximization criterion for active learning}, \\
   author={Yang, Yazhou and Loog, Marco},
   journal={Pattern Recognition},
   volume={78},
