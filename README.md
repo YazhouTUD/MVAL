@@ -1,5 +1,5 @@
 # MVAL
-The Matlab code of "A Variance Maximization Criterion for Active Learning"
+The Matlab code of "A Variance Maximization Criterion for Active Learning". The code will be released soon.
 
 Paper: Yang, Yazhou, and Marco Loog. "A variance maximization criterion for active learning." Pattern Recognition 78 (2018): 358-370.
 
