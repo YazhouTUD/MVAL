@@ -10,8 +10,11 @@ We already include all the libaries in the folder "lib". These libaries are down
 If you have error with these libaries, please download the libsvm and liblinear packages and compile them on your own computer. Subsequently, rename these compiled libaries as follows:
 
 (Libsvm):     svmpredict.mexmaci64 --> mysvmpredict.mexmaci64
+
 (Libsvm):     svmtrain.mexmaci64 --> mysvmtrain.mexmaci64
+
 (Liblinear):  predict.mexmaci64 --> linearpredict.mexmaci64
+
 (Liblinear):  train.mexmaci64 --> lineartrain.mexmaci64
 
 The file-name extensions are .mexmaci64 (on Apple Mac (64-bit)), .mexw64 (on Windows (64-bit)), or .mexa64 (on Linux (64-bit)).
