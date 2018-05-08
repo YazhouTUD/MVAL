@@ -39,20 +39,20 @@ If you are using this code, please consider citing the following reference:
 
 Bibtex:
 
-@article{yang2018variance,
+    @article{yang2018variance,
 
-  title={A variance maximization criterion for active learning}, 
+        title={A variance maximization criterion for active learning}, 
    
-  author={Yang, Yazhou and Loog, Marco},
+        author={Yang, Yazhou and Loog, Marco},
   
-  journal={Pattern Recognition},
+        journal={Pattern Recognition},
   
-  volume={78},
+        volume={78},
   
-  pages={358--370},
+        pages={358--370},
   
-  year={2018},
+        year={2018},
   
-  publisher={Elsevier}
-}
+        publisher={Elsevier}
+    }
 
