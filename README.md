@@ -23,11 +23,14 @@ The file-name extensions are .mexmaci64 (on Apple Mac (64-bit)), .mexw64 (on Win
 
 Just run "Example_MVAL.m" to see how it works.
 
-Just choose "choice" from {1,2,3} depending on the used classifier and datasets:
+Choose "choice" from {1,2,3} depending on the used classifier and datasets:
 
 choice:  choose the classifier and type of datasets
+
     1 -- MVAL using logistic regression as the classifier on binary datasets (MVAL_logistic_binary.m).
+    
     2 -- MVAL using SVM as the classifier on binary datasets (MVAL_SVM_binary.m).
+    
     3 -- MVAL using logistic regression as the classifier on multi-class datasets (MVAL_logistic_multi.m).
 
 If you have any questions, please feel free to connect with me (yazhouy@gmail.com).
