@@ -3,7 +3,7 @@ The Matlab code of "A Variance Maximization Criterion for Active Learning".
 
 Reference: Yang, Yazhou, and Marco Loog. "A variance maximization criterion for active learning." Pattern Recognition 78 (2018): 358-370.
 
-1. Installation
+## Installing
 
 We already include all the libaries in the folder "lib". These libaries are downloaded from libsvm (https://www.csie.ntu.edu.tw/~cjlin/libsvm/) and liblinear (https://www.csie.ntu.edu.tw/~cjlin/liblinear/). We provided the pre-compiled libaries on Mac, Windows and Ubuntu systems. 
 
@@ -19,7 +19,7 @@ If you have error with these libaries, please download the libsvm and liblinear 
 
 The file-name extensions are .mexmaci64 (on Apple Mac (64-bit)), .mexw64 (on Windows (64-bit)), or .mexa64 (on Linux (64-bit)).
 
-2. Usage
+## Usage
 
 Just run "Example_MVAL.m" to see how it works.
 
@@ -44,3 +44,4 @@ Bibtex:
   year={2018},
   publisher={Elsevier}
 }
+
