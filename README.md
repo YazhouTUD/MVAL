@@ -7,6 +7,7 @@ Reference: Yang, Yazhou, and Marco Loog. "A variance maximization criterion for 
 We already include all the libaries in the folder "lib". These libaries are downloaded from libsvm (https://www.csie.ntu.edu.tw/~cjlin/libsvm/) and liblinear (https://www.csie.ntu.edu.tw/~cjlin/liblinear/). We provided the pre-compiled libaries on Mac, Windows and Ubuntu systems. 
 
 If you have error with these libaries, please download the libsvm and liblinear packages and compile them on your own computer. Subsequently, rename these compiled libaries as follows:
+
 (Libsvm):     svmpredict.mexmaci64 --> mysvmpredict.mexmaci64
 (Libsvm):     svmtrain.mexmaci64 --> mysvmtrain.mexmaci64
 (Liblinear):  predict.mexmaci64 --> linearpredict.mexmaci64
