@@ -9,7 +9,7 @@ We already include all the libaries in the folder "lib". These libaries are down
 
 If you have error with these libaries, please download the libsvm and liblinear packages and compile them on your own computer. Subsequently, rename these compiled libaries as follows:
 
-(Libsvm):     svmpredict.mexmaci64 --> mysvmpredict.mexmaci64
+(Libsvm):   svmpredict.mexmaci64 --> mysvmpredict.mexmaci64
 
 (Libsvm):     svmtrain.mexmaci64 --> mysvmtrain.mexmaci64
 
