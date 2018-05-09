@@ -27,11 +27,11 @@ Choose "choice" from {1,2,3} depending on the used classifier and datasets:
 
 choice:  choose the classifier and type of datasets
 
-    1 -- MVAL using logistic regression as the classifier on binary datasets (MVAL_logistic_binary.m).
+    1 -- MVAL using logistic regression on binary datasets (MVAL_logistic_binary.m).
     
-    2 -- MVAL using SVM as the classifier on binary datasets (MVAL_SVM_binary.m).
+    2 -- MVAL using SVM on binary datasets (MVAL_SVM_binary.m).
     
-    3 -- MVAL using logistic regression as the classifier on multi-class datasets (MVAL_logistic_multi.m).
+    3 -- MVAL using logistic regression on multi-class datasets (MVAL_logistic_multi.m).
 
 If you have any questions, please feel free to connect with me (yazhouy@gmail.com).
 
