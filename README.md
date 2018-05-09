@@ -17,7 +17,7 @@ If you have error with these libaries, please download the libsvm and liblinear 
 
 (Liblinear):  train.mexmaci64 --> lineartrain.mexmaci64
 
-The file-name extensions are .mexmaci64 (on Apple Mac (64-bit)), .mexw64 (on Windows (64-bit)), or .mexa64 (on Linux (64-bit)).
+The file-name extensions are .mexmaci64 (on Apple Mac (64-bit)), .mexw64 (on Windows (64-bit)), or .mexa64 (on Linux (64-bit)), depending on your operating system.
 
 ## Usage
 
