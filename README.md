@@ -38,7 +38,7 @@ If you have any questions, please feel free to connect with me (yazhouy@gmail.co
 
 
 ## Reference
-If you are using this code, please consider citing the following reference:
+If you are using this code, please cite the following reference:
 
 Bibtex:
 
